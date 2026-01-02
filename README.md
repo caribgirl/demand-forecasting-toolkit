@@ -74,6 +74,8 @@ Real-world case studies with code:
 
 ## 🚀 Quick Start
 
+> 📖 **New to the project?** See [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md) for detailed step-by-step setup and troubleshooting guide.
+
 ### Option 1: Interactive Dashboard (No Code)
 
 ```bash
@@ -186,6 +188,8 @@ Start with `01_business_case.ipynb` for ROI analysis.
 ---
 
 ## 🛠️ Installation
+
+> 💡 **Need help with setup?** Check [RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md) for detailed installation steps and troubleshooting.
 
 ### Standard Installation
 
